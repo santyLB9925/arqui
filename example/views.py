@@ -111,3 +111,7 @@ class  ExampleDetail2(APIView):
         else:
             return Response(status = status.HTTP_400_BAD_REQUEST)
 
+
+
+
+# Create your views here.
